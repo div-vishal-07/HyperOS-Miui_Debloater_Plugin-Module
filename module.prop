@@ -1,0 +1,9 @@
+id=Vishal_miui_debloat
+name=Miui/HyperOS Debloater
+version=4.04
+versionCode=1225
+author=Vishal Rathaur
+description=Miui/HyperOS Debloater module for Google and Xiaomi apps. Uses -k flag so it can preserve app data. Not sure if your app data is preserved.
+banner=vishal.png
+webui=true
+axeronPlugin=10001
